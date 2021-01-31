@@ -136,7 +136,6 @@ body {
 	}
 	.prev, .next {
 		padding: 24px 29px 21px 29px;
-		border-radius: 40px;
 	}
 	.prev img, .next img {
 		width: 100%;
