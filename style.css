@@ -74,10 +74,10 @@ body {
 }
 .review {
 	text-align: center;
+	line-height: 1.3em;
 }
 .author-container {
 	text-align: center;
-	margin-top: 20px;
 	font-size: 15px;
 }
 .author-title {
